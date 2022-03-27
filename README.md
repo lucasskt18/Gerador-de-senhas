@@ -1,2 +1,2 @@
-# Gerenciador-de-senhas
-Criando um gerenciador de senhas utilizando o HTML, Css e JavaScript
+# Gerador-de-senhas
+Criando um gerador de senhas utilizando o HTML, Css e JavaScript
